@@ -184,3 +184,7 @@ buildNumber.properties
 # Ignore all local history of files
 .history
 .ionide
+
+## ignore Files
+kafka/kafka
+kafka/zookeeper
